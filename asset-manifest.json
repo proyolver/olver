@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/olver/static/css/main.68aed11b.css",
+    "main.js": "/olver/static/js/main.2c64aaf5.js",
+    "static/js/787.3f2f8b7a.chunk.js": "/olver/static/js/787.3f2f8b7a.chunk.js",
+    "static/media/banner3.jpg": "/olver/static/media/banner3.9b83e0f8726ab466ba77.jpg",
+    "static/media/logo.png": "/olver/static/media/logo.0b3ee39bba6f1a5ee547.png",
+    "static/media/banner2.jpg": "/olver/static/media/banner2.68e14774cc3df59413e7.jpg",
+    "static/media/banner1.jpg": "/olver/static/media/banner1.5a2bfe223df6dddb1eea.jpg",
+    "static/media/card2.jpg": "/olver/static/media/card2.ad10d2222260a8f513b1.jpg",
+    "static/media/card1.jpg": "/olver/static/media/card1.6f2c701bb944bc6d8abb.jpg",
+    "static/media/card3.jpg": "/olver/static/media/card3.cfd5a73a6326d8af4435.jpg",
+    "static/media/acercade.jpg": "/olver/static/media/acercade.293aa53addbdfb2de543.jpg",
+    "static/media/t3.jpg": "/olver/static/media/t3.75e1fe0fd14185d6fbce.jpg",
+    "static/media/t2.jpg": "/olver/static/media/t2.877f5362624123cd0e5c.jpg",
+    "static/media/m3.png": "/olver/static/media/m3.cb48798fc163a9a3dc2e.png",
+    "static/media/error404.png": "/olver/static/media/error404.fab8ad695e2026cc86b8.png",
+    "index.html": "/olver/index.html",
+    "main.68aed11b.css.map": "/olver/static/css/main.68aed11b.css.map",
+    "main.2c64aaf5.js.map": "/olver/static/js/main.2c64aaf5.js.map",
+    "787.3f2f8b7a.chunk.js.map": "/olver/static/js/787.3f2f8b7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68aed11b.css",
+    "static/js/main.2c64aaf5.js"
+  ]
+}
